@@ -42,5 +42,5 @@ Make sure inject.js is located in your Downloads folder.
 
 ### 🧠 Technologies Used
 
-Node.js
-chrome-remote-interface
+- Node.js
+- chrome-remote-interface
