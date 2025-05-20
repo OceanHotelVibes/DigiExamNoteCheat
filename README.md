@@ -20,9 +20,9 @@ After installation, verify with:
 node -v
 ```
 ### 2. Install Chrome Remote Interface
-Install the CLI globally:
+Install the CLI:
 ```bash
-npm install -g chrome-remote-interface
+npm install chrome-remote-interface
 ```
 
 ### 3. Run the Script
@@ -43,4 +43,4 @@ Make sure inject.js is located in your Downloads folder.
 ### 🧠 Technologies Used
 
 - Node.js
-- chrome-remote-interface
+- chrome-remote-interface (CLI)
